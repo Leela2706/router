@@ -27,9 +27,10 @@ export default class TopArea extends Component {
                     {/* <a href="#home"></a> */}
                   </li>
                   <li className="scroll">
-                  <Link to={'HOWITWORKS'}>how it works</Link>
+                    <Link to={'HOWITWORKS'}>how it works</Link>
 
-                    <a href="#works"></a></li>
+                    {/* <a href="#works"></a> */}
+                    </li>
                   <li className="scroll"><a href="#explore">explore</a></li>
                   <li className="scroll"><a href="#reviews">review</a></li>
                   <li className="scroll"><a href="#blog">blog</a></li>
